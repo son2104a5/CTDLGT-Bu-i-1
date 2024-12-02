@@ -1,0 +1,4 @@
+Oval: Dùng để bắt đầu hoặc kết thúc 1 quy trình
+HCN: Dùng triển khai các bước
+Hình thoi: Dùng khi cần sử dụng điều kiện để bắt đầu quy trình
+Mũi tên: chỉ dòng chạy của quy trình
