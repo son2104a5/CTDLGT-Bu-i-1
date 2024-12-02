@@ -1,0 +1,19 @@
+- Lưu trữ danh sách sinh viên theo thứ tự nhập vào
+Lựa chọn: Danh sách liên kết (Linked List)
+Vì: Danh sách liên kết thích hợp cho việc thêm phần tử ở cuối danh sách một cách nhanh chóng và linh hoạt trong việc quản lý bộ nhớ, không cần cấp phát trước.
+
+- Tìm kiếm nhanh tên một sản phẩm trong danh sách hàng triệu sản phẩm
+Lựa chọn: Cây nhị phân (Binary Tree)
+Vì: Cây tìm kiếm nhị phân cân bằng đảm bảo tìm kiếm trong thời gian và hỗ trợ duy trì dữ liệu có thứ tự.
+
+- Quản lý danh sách các task công việc cần xử lý theo thứ tự ưu tiên
+Lựa chọn: Hàng đợi ưu tiên (Priority Queue)
+Vì: Hàng đợi ưu tiên đảm bảo luôn lấy task có mức ưu tiên cao nhất
+
+- Lưu trữ dữ liệu hệ thống phân cấp như thư mục máy tính
+Lựa chọn: Cây (Tree)
+Vì: Cây là cấu trúc tự nhiên để biểu diễn dữ liệu phân cấp, mỗi thư mục có thể có nhiều thư mục con hoặc tệp tin (nút con). Cây hỗ trợ duyệt theo các chiến lược như DFS hoặc BFS để tìm kiếm hoặc xử lý dữ liệu.
+
+- Tìm đường đi ngắn nhất giữa 2 điểm trên bản đồ
+Lựa chọn: Đồ thị (Graph)
+Vì: Đồ thị biểu diễn các điểm (nút) và các đoạn đường (cạnh), có thể áp dụng thuật toán tìm đường ngắn nhất như Dijkstra hoặc A* để giải quyết vấn đề. Đồ thị hỗ trợ cả trường hợp có trọng số và không trọng số.
