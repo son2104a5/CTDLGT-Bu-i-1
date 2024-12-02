@@ -1,0 +1,28 @@
+Mảng (Array):
+- Đặc điểm chính: Bộ nhớ được cấp phát liên tiếp, có thể truy cập phần tử qua chỉ số.
+- Ứng dụng phổ biến: Lưu trữ dữ liệu cố định, thao tác nhanh với chỉ số như bảng tính hoặc danh sách.
+
+
+Danh sách liên kết (Linked List):
+- Đặc điểm chính: Các phần tử được liên kết với nhau qua con trỏ, không yêu cầu bộ nhớ liên tiếp.
+- Ứng dụng phổ biến: Quản lý bộ nhớ linh hoạt, như danh sách chờ hoặc undo/redo.
+
+
+Ngăn xếp (Stack):
+- Đặc điểm chính: Hoạt động theo nguyên tắc LIFO (vào sau ra trước).
+- Ứng dụng phổ biến: Quản lý lời gọi hàm, kiểm tra dấu ngoặc hợp lệ trong biểu thức.
+
+
+Hàng đợi (Queue):
+- Đặc điểm chính: Hoạt động theo nguyên tắc FIFO (vào trước ra trước).
+- Ứng dụng phổ biến: Hệ thống hàng đợi như xử lý tác vụ, truyền dữ liệu.
+
+
+Cây (Tree):
+- Đặc điểm chính: Cấu trúc phân cấp, mỗi nút có thể có nhiều con nhưng chỉ có một cha.
+- Ứng dụng phổ biến: Tìm kiếm nhanh (như cây nhị phân tìm kiếm), tổ chức dữ liệu dạng phân cấp.
+
+
+Đồ thị (Graph):
+- Đặc điểm chính: Bao gồm các đỉnh và cạnh liên kết chúng, có thể có hướng hoặc vô hướng.
+- Ứng dụng phổ biến: Mạng xã hội, tìm đường trong bản đồ, tối ưu hóa mạng.
